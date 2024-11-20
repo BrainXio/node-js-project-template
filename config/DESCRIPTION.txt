@@ -1,0 +1,1 @@
+Configuration files for things like database connections or API keys.

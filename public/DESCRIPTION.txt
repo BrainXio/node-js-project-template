@@ -1,0 +1,1 @@
+Static files accessible by the frontend without server processing.

@@ -1,0 +1,1 @@
+Templates for rendering pages, often used with server-side rendering.
